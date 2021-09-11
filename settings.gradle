@@ -1,0 +1,11 @@
+rootProject.name = 'project-final-backend'
+
+include 'project-commons'
+include 'service-user'
+include 'service-movie'
+include 'service-showtime'
+include 'service-booking'
+include 'service-config'
+include 'service-register'
+include 'service-gateway'
+include 'service-admin'
